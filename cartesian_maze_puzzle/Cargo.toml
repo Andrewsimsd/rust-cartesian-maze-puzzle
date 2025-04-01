@@ -2,6 +2,14 @@
 name = "cartesian_maze_puzzle"
 version = "0.1.0"
 edition = "2021"
+authors = ["Andrew Sims andrew,simsd.@gmail.com"]
+description = "A cartesian maze puzzle for you to solve."
+license = "MIT"
+repository = ""
+homepage = ""
+readme = "README.md"
+keywords = ["puzzle", "cartesian"]
+categories = [""]
 
 [dependencies]
 rand = "0.9"
