@@ -9,7 +9,7 @@ repository = "https://github.com/Andrewsimsd/rust-cartesian-maze-puzzle"
 homepage = "https://github.com/Andrewsimsd/rust-cartesian-maze-puzzle"
 readme = "README.md"
 keywords = ["puzzle", "cartesian"]
-categories = [""]
+categories = ["maze","puzzle", "cartesian"]
 
 [dependencies]
 rand = "0.9"
